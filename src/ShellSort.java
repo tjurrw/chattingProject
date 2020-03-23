@@ -15,7 +15,6 @@ public class ShellSort {
                     a[j + h] = a[j];
                 a[j + h] = tmp;
             }
-
     }
 
     public static void main(String[] args){
@@ -38,4 +37,3 @@ public class ShellSort {
             System.out.println("x[" + i + "] = " + x[i]);
     }
 }
-
